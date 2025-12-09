@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
   <rect width="100" height="100" rx="20" fill="#020617"/>
   <text x="50" y="70" font-family="monospace" font-size="55" font-weight="bold" text-anchor="middle" fill="#22d3ee">
     SR<tspan fill="#a855f7">.</tspan>
   </text>
+=======
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect width="100" height="100" rx="20" fill="#020617"/>
+  <text x="50" y="70" font-family="monospace" font-size="55" font-weight="bold" text-anchor="middle" fill="#22d3ee">
+    SR<tspan fill="#a855f7">.</tspan>
+  </text>
+>>>>>>> c16f1bc63b016c0c877ae6a9e7c1cdace0697fed
 </svg>
