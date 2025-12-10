@@ -279,7 +279,6 @@ const HackathonsAndSkills = () => {
       org: "Cybrainyx Technologies + Nagpur Police",
       badge: "",
       badgeColor: "bg-pink-500/10 text-pink-400 border-pink-500/50",
-      desc: "
       desc: "Felicitated by Hon. CM of Maharashtra, Shri. Devendra Fadnavis. Developed 'Garuda Drishti', a surveillance tool monitoring 30,000+ posts. Assisted police in identifying harmful content on social media.",
       tags: ["Python", "OSINT", "APIs"]
     },
