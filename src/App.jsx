@@ -144,8 +144,15 @@ const Hero = () => {
 const Experience = () => {
   const experiences = [
     {
+      company: "Infosys Springboard - Virtual Internship 6.0",
+      role: "AI Intern",
+      period: "Nov 2025 - Present",
+      desc: "Developed an end-to-end RAG system using embeddings, vector search, and prompt tuning.",
+      tech: ["Python", "FAISS", "LLMs"]
+    },
+    {
       company: "Cybrainyx Technologies + Nagpur Police",
-      role: "Cyber Security Intern",
+      role: "Intern",
       period: "Jun 2025 - Present",
       desc: "Developed 'Garuda Drishti', a surveillance tool monitoring 30,000+ posts. Assisted police in identifying harmful content on social media.",
       tech: ["Python", "OSINT", "APIs"]
@@ -268,12 +275,21 @@ const Projects = () => {
 const HackathonsAndSkills = () => {
   const achievements = [
     {
+      title: "Garuda Dhristi",
+      org: "Cybrainyx Technologies + Nagpur Police",
+      badge: "",
+      badgeColor: "bg-pink-500/10 text-pink-400 border-pink-500/50",
+      desc: "
+      desc: "Felicitated by Hon. CM of Maharashtra, Shri. Devendra Fadnavis. Developed 'Garuda Drishti', a surveillance tool monitoring 30,000+ posts. Assisted police in identifying harmful content on social media.",
+      tags: ["Python", "OSINT", "APIs"]
+    },
+    {
       title: "World Computer Hackher's League",
       org: "ICP Hubs",
       badge: "Regional Finalist (Asia)",
       badgeColor: "bg-purple-500/10 text-purple-400 border-purple-500/50",
       desc: "Selected for Regionals (Asia) out of 5000+ entries from India and more than 10K submissions from around the globe. Built 'ProofMint', a decentralized copyright management platform on the Internet Computer Protocol.",
-      tags: ["Web3", "Copyright", "Top 1%"]
+      tags: ["Web3", "Copyright", "Top 10%"]
     },
     {
       title: "APOGEE '25",
